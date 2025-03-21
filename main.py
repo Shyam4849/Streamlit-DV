@@ -4,6 +4,9 @@ import pandas as pd
 
 # st.title("data visualization")
 st.set_page_config(page_title="data visualization",page_icon="😂")
+
+st.write("Hi this is new changes")
+
 st.title("Data visulizatinon with streamlit")
 with st.sidebar:
 
